@@ -13,7 +13,8 @@ Widget configuration:
 {{#widget: MapView|
       dataCubeURI= '<http://id.statistiek.vlaanderen.be/dataset/inburgering#id>' |
       asynch='true' |
-      mapzoom='BE' }}
+      mapzoom='BE'
+ }}
 ```   
 
 ###Functionality
